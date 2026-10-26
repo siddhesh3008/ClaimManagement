@@ -1,0 +1,16 @@
+C:\Users\Siddhesh Haldankar\Downloads\Insurance_App\InsuranceApplication\Backend\ClaimManagement\ClaimManagement.API\ClaimManagement.Domain\bin\Debug\net8.0\ClaimManagement.Domain.deps.json
+C:\Users\Siddhesh Haldankar\Downloads\Insurance_App\InsuranceApplication\Backend\ClaimManagement\ClaimManagement.API\ClaimManagement.Domain\bin\Debug\net8.0\ClaimManagement.Domain.runtimeconfig.json
+C:\Users\Siddhesh Haldankar\Downloads\Insurance_App\InsuranceApplication\Backend\ClaimManagement\ClaimManagement.API\ClaimManagement.Domain\bin\Debug\net8.0\ClaimManagement.Domain.dll
+C:\Users\Siddhesh Haldankar\Downloads\Insurance_App\InsuranceApplication\Backend\ClaimManagement\ClaimManagement.API\ClaimManagement.Domain\bin\Debug\net8.0\ClaimManagement.Domain.pdb
+C:\Users\Siddhesh Haldankar\Downloads\Insurance_App\InsuranceApplication\Backend\ClaimManagement\ClaimManagement.API\ClaimManagement.Domain\obj\Debug\net8.0\ClaimManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Siddhesh Haldankar\Downloads\Insurance_App\InsuranceApplication\Backend\ClaimManagement\ClaimManagement.API\ClaimManagement.Domain\obj\Debug\net8.0\ClaimManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siddhesh Haldankar\Downloads\Insurance_App\InsuranceApplication\Backend\ClaimManagement\ClaimManagement.API\ClaimManagement.Domain\obj\Debug\net8.0\ClaimManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Siddhesh Haldankar\Downloads\Insurance_App\InsuranceApplication\Backend\ClaimManagement\ClaimManagement.API\ClaimManagement.Domain\obj\Debug\net8.0\ClaimManagement.Domain.AssemblyInfo.cs
+C:\Users\Siddhesh Haldankar\Downloads\Insurance_App\InsuranceApplication\Backend\ClaimManagement\ClaimManagement.API\ClaimManagement.Domain\obj\Debug\net8.0\ClaimManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Siddhesh Haldankar\Downloads\Insurance_App\InsuranceApplication\Backend\ClaimManagement\ClaimManagement.API\ClaimManagement.Domain\obj\Debug\net8.0\ClaimManagement.Domain.sourcelink.json
+C:\Users\Siddhesh Haldankar\Downloads\Insurance_App\InsuranceApplication\Backend\ClaimManagement\ClaimManagement.API\ClaimManagement.Domain\obj\Debug\net8.0\ClaimManagement.Domain.dll
+C:\Users\Siddhesh Haldankar\Downloads\Insurance_App\InsuranceApplication\Backend\ClaimManagement\ClaimManagement.API\ClaimManagement.Domain\obj\Debug\net8.0\refint\ClaimManagement.Domain.dll
+C:\Users\Siddhesh Haldankar\Downloads\Insurance_App\InsuranceApplication\Backend\ClaimManagement\ClaimManagement.API\ClaimManagement.Domain\obj\Debug\net8.0\ClaimManagement.Domain.pdb
+C:\Users\Siddhesh Haldankar\Downloads\Insurance_App\InsuranceApplication\Backend\ClaimManagement\ClaimManagement.API\ClaimManagement.Domain\obj\Debug\net8.0\ClaimManagement.Domain.genruntimeconfig.cache
+C:\Users\Siddhesh Haldankar\Downloads\Insurance_App\InsuranceApplication\Backend\ClaimManagement\ClaimManagement.API\ClaimManagement.Domain\obj\Debug\net8.0\ref\ClaimManagement.Domain.dll
+C:\Users\Siddhesh Haldankar\Downloads\Insurance_App\InsuranceApplication\Backend\ClaimManagement\ClaimManagement.API\ClaimManagement.Domain\obj\Debug\net8.0\ClaimMan.074EA343.Up2Date
